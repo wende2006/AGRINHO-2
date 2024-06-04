@@ -268,7 +268,10 @@
     height: auto;
     border-radius: 5%;
   }
-  
+  .containerr {
+    margin-top: 50px;
+    display: flex;
+  }
   /* ########################## Responsivo para celulares e tablets ##############################*/
   
   /* -- 320px — 480px: dispositivos móveis  CELULAR --*/
